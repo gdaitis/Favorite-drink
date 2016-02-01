@@ -1,0 +1,256 @@
+TKokteiliai
+v7
+r0
+t321275466.625433
+cCheck dependencies
+cProcessInfoPlistFile /Volumes/Duomenys/iTo/Kokteiliai/Kokteiliai/build/Debug-iphonesimulator/Kokteiliai.app/Info.plist Kokteiliai-Info.plist
+cCompileXIB /Volumes/Duomenys/iTo/Kokteiliai/Kokteiliai/MainWindow.xib
+cCompileXIB /Volumes/Duomenys/iTo/Kokteiliai/Kokteiliai/Classes/../KokteiliaiViewController.xib
+cProcessPCH /var/folders/jG/jGlaSJMfEaSmmFVk-VGsVk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Kokteiliai_Prefix-cyttmhelrmuidwhjefthgannfcyj/Kokteiliai_Prefix.pch.gch Kokteiliai_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Kokteiliai.build/Debug-iphonesimulator/Kokteiliai.build/Objects-normal/i386/main.o /Volumes/Duomenys/iTo/Kokteiliai/Kokteiliai/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Kokteiliai.build/Debug-iphonesimulator/Kokteiliai.build/Objects-normal/i386/KokteiliaiAppDelegate.o /Volumes/Duomenys/iTo/Kokteiliai/Kokteiliai/Classes/KokteiliaiAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Kokteiliai.build/Debug-iphonesimulator/Kokteiliai.build/Objects-normal/i386/KokteiliaiViewController.o /Volumes/Duomenys/iTo/Kokteiliai/Kokteiliai/Classes/KokteiliaiViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Volumes/Duomenys/iTo/Kokteiliai/Kokteiliai/build/Debug-iphonesimulator/Kokteiliai.app/Kokteiliai normal i386
+cGenerateDSYMFile /Volumes/Duomenys/iTo/Kokteiliai/Kokteiliai/build/Debug-iphonesimulator/Kokteiliai.app.dSYM /Volumes/Duomenys/iTo/Kokteiliai/Kokteiliai/build/Debug-iphonesimulator/Kokteiliai.app/Kokteiliai
+cTouch /Volumes/Duomenys/iTo/Kokteiliai/Kokteiliai/build/Debug-iphonesimulator/Kokteiliai.app
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk
+c000000004CC128950000000000000110
+t1287727253
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004CC12246000000000029B310
+t1287725638
+s2732816
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004CC1226D000000000029D5D0
+t1287725677
+s2741712
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004CC1225F0000000000001466
+t1287725663
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004CC1281F0000000000000AA1
+t1287727135
+s2721
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004CC12883000000000074D7B0
+t1287727235
+s7657392
+
+N/Volumes/Duomenys/iTo/Kokteiliai/Kokteiliai/Classes/../KokteiliaiViewController.xib
+c000000004D760EBB0000000000004122
+t1299582651
+s16674
+
+N/Volumes/Duomenys/iTo/Kokteiliai/Kokteiliai/Classes/KokteiliaiAppDelegate.h
+c000000004D74DFBB00000000000001ED
+t1299505083
+s493
+i<UIKit/UIKit.h>
+
+N/Volumes/Duomenys/iTo/Kokteiliai/Kokteiliai/Classes/KokteiliaiAppDelegate.m
+c000000004D74DFD70000000000000312
+t1299505111
+s786
+i"KokteiliaiAppDelegate.h"
+i"KokteiliaiViewController.h"
+
+N/Volumes/Duomenys/iTo/Kokteiliai/Kokteiliai/Classes/KokteiliaiViewController.h
+c000000004D74DFB700000000000000F3
+t1299505079
+s243
+i<UIKit/UIKit.h>
+
+N/Volumes/Duomenys/iTo/Kokteiliai/Kokteiliai/Classes/KokteiliaiViewController.m
+c000000004D74E00D00000000000004F6
+t1299505165
+s1270
+i"KokteiliaiViewController.h"
+
+N/Volumes/Duomenys/iTo/Kokteiliai/Kokteiliai/Kokteiliai_Prefix.pch
+c000000004D74DEBC00000000000000BD
+t1299504828
+s189
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Volumes/Duomenys/iTo/Kokteiliai/Kokteiliai/MainWindow.xib
+c000000004D74DEBC0000000000004D27
+t1299504828
+s19751
+
+N/Volumes/Duomenys/iTo/Kokteiliai/Kokteiliai/build/Debug-iphonesimulator/Kokteiliai.app
+t1299582666
+s238
+
+N/Volumes/Duomenys/iTo/Kokteiliai/Kokteiliai/build/Debug-iphonesimulator/Kokteiliai.app.dSYM
+t1299582666
+s102
+
+N/Volumes/Duomenys/iTo/Kokteiliai/Kokteiliai/build/Debug-iphonesimulator/Kokteiliai.app/Info.plist
+t1299582664
+s837
+
+N/Volumes/Duomenys/iTo/Kokteiliai/Kokteiliai/build/Debug-iphonesimulator/Kokteiliai.app/Kokteiliai
+t1299582666
+s16260
+
+N/Volumes/Duomenys/iTo/Kokteiliai/Kokteiliai/build/Debug-iphonesimulator/Kokteiliai.app/KokteiliaiViewController.nib
+t1299582665
+s964
+
+N/Volumes/Duomenys/iTo/Kokteiliai/Kokteiliai/build/Debug-iphonesimulator/Kokteiliai.app/MainWindow.nib
+t1299582665
+s1129
+
+N/Volumes/Duomenys/iTo/Kokteiliai/Kokteiliai/build/Debug-iphonesimulator/Kokteiliai.app/PkgInfo
+t1299582664
+s8
+
+N/Volumes/Duomenys/iTo/Kokteiliai/Kokteiliai/build/Kokteiliai.build/Debug-iphonesimulator/Kokteiliai.build/Objects-normal/i386/Kokteiliai.LinkFileList
+c000000004D760EC800000000000001B4
+t1299582664
+s436
+
+N/Volumes/Duomenys/iTo/Kokteiliai/Kokteiliai/build/Kokteiliai.build/Debug-iphonesimulator/Kokteiliai.build/Objects-normal/i386/KokteiliaiAppDelegate.o
+t1299582666
+s48636
+
+N/Volumes/Duomenys/iTo/Kokteiliai/Kokteiliai/build/Kokteiliai.build/Debug-iphonesimulator/Kokteiliai.build/Objects-normal/i386/KokteiliaiViewController.o
+t1299582666
+s37524
+
+N/Volumes/Duomenys/iTo/Kokteiliai/Kokteiliai/build/Kokteiliai.build/Debug-iphonesimulator/Kokteiliai.build/Objects-normal/i386/main.o
+t1299582666
+s6312
+
+N/Volumes/Duomenys/iTo/Kokteiliai/Kokteiliai/main.m
+c000000004D74DEBC0000000000000167
+t1299504828
+s359
+i<UIKit/UIKit.h>
+
+N/var/folders/jG/jGlaSJMfEaSmmFVk-VGsVk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Kokteiliai_Prefix-cyttmhelrmuidwhjefthgannfcyj/Kokteiliai_Prefix.pch.gch
+t1299582666
+s15453392
+
+NKokteiliai-Info.plist
+c000000004D760E6F00000000000004D1
+t1299582575
+s1233
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies321275464#321275464#0(0"0(0#1#0"8622299296#0"0#
+
+CCompileC build/Kokteiliai.build/Debug-iphonesimulator/Kokteiliai.build/Objects-normal/i386/KokteiliaiAppDelegate.o /Volumes/Duomenys/iTo/Kokteiliai/Kokteiliai/Classes/KokteiliaiAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s321275466.467984
+e321275466.553545
+r1
+xCompileC
+xbuild/Kokteiliai.build/Debug-iphonesimulator/Kokteiliai.build/Objects-normal/i386/KokteiliaiAppDelegate.o
+x/Volumes/Duomenys/iTo/Kokteiliai/Kokteiliai/Classes/KokteiliaiAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@83"Compile /Volumes/Duomenys/iTo/Kokteiliai/Kokteiliai/Classes/KokteiliaiAppDelegate.m321275466#321275466#0(0"0(0#0#75"/Volumes/Duomenys/iTo/Kokteiliai/Kokteiliai/Classes/KokteiliaiAppDelegate.m8621313728#2071"    cd /Volumes/Duomenys/iTo/Kokteiliai/Kokteiliai    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Volumes/Duomenys/iTo/Kokteiliai/Kokteiliai/build/Kokteiliai.build/Debug-iphonesimulator/Kokteiliai.build/Kokteiliai-generated-files.hmap -I/Volumes/Duomenys/iTo/Kokteiliai/Kokteiliai/build/Kokteiliai.build/Debug-iphonesimulator/Kokteiliai.build/Kokteiliai-own-target-headers.hmap -I/Volumes/Duomenys/iTo/Kokteiliai/Kokteiliai/build/Kokteiliai.build/Debug-iphonesimulator/Kokteiliai.build/Kokteiliai-all-target-headers.hmap -iquote /Volumes/Duomenys/iTo/Kokteiliai/Kokteiliai/build/Kokteiliai.build/Debug-iphonesimulator/Kokteiliai.build/Kokteiliai-project-headers.hmap -F/Volumes/Duomenys/iTo/Kokteiliai/Kokteiliai/build/Debug-iphonesimulator -I/Volumes/Duomenys/iTo/Kokteiliai/Kokteiliai/build/Debug-iphonesimulator/include -I/Volumes/Duomenys/iTo/Kokteiliai/Kokteiliai/build/Kokteiliai.build/Debug-iphonesimulator/Kokteiliai.build/DerivedSources/i386 -I/Volumes/Duomenys/iTo/Kokteiliai/Kokteiliai/build/Kokteiliai.build/Debug-iphonesimulator/Kokteiliai.build/DerivedSources -include /var/folders/jG/jGlaSJMfEaSmmFVk-VGsVk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Kokteiliai_Prefix-cyttmhelrmuidwhjefthgannfcyj/Kokteiliai_Prefix.pch -c /Volumes/Duomenys/iTo/Kokteiliai/Kokteiliai/Classes/KokteiliaiAppDelegate.m -o /Volumes/Duomenys/iTo/Kokteiliai/Kokteiliai/build/Kokteiliai.build/Debug-iphonesimulator/Kokteiliai.build/Objects-normal/i386/KokteiliaiAppDelegate.o0#
+
+CCompileC build/Kokteiliai.build/Debug-iphonesimulator/Kokteiliai.build/Objects-normal/i386/KokteiliaiViewController.o /Volumes/Duomenys/iTo/Kokteiliai/Kokteiliai/Classes/KokteiliaiViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s321275466.525509
+e321275466.583157
+r1
+xCompileC
+xbuild/Kokteiliai.build/Debug-iphonesimulator/Kokteiliai.build/Objects-normal/i386/KokteiliaiViewController.o
+x/Volumes/Duomenys/iTo/Kokteiliai/Kokteiliai/Classes/KokteiliaiViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@86"Compile /Volumes/Duomenys/iTo/Kokteiliai/Kokteiliai/Classes/KokteiliaiViewController.m321275466#321275466#0(0"0(0#0#78"/Volumes/Duomenys/iTo/Kokteiliai/Kokteiliai/Classes/KokteiliaiViewController.m8622008000#2077"    cd /Volumes/Duomenys/iTo/Kokteiliai/Kokteiliai    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Volumes/Duomenys/iTo/Kokteiliai/Kokteiliai/build/Kokteiliai.build/Debug-iphonesimulator/Kokteiliai.build/Kokteiliai-generated-files.hmap -I/Volumes/Duomenys/iTo/Kokteiliai/Kokteiliai/build/Kokteiliai.build/Debug-iphonesimulator/Kokteiliai.build/Kokteiliai-own-target-headers.hmap -I/Volumes/Duomenys/iTo/Kokteiliai/Kokteiliai/build/Kokteiliai.build/Debug-iphonesimulator/Kokteiliai.build/Kokteiliai-all-target-headers.hmap -iquote /Volumes/Duomenys/iTo/Kokteiliai/Kokteiliai/build/Kokteiliai.build/Debug-iphonesimulator/Kokteiliai.build/Kokteiliai-project-headers.hmap -F/Volumes/Duomenys/iTo/Kokteiliai/Kokteiliai/build/Debug-iphonesimulator -I/Volumes/Duomenys/iTo/Kokteiliai/Kokteiliai/build/Debug-iphonesimulator/include -I/Volumes/Duomenys/iTo/Kokteiliai/Kokteiliai/build/Kokteiliai.build/Debug-iphonesimulator/Kokteiliai.build/DerivedSources/i386 -I/Volumes/Duomenys/iTo/Kokteiliai/Kokteiliai/build/Kokteiliai.build/Debug-iphonesimulator/Kokteiliai.build/DerivedSources -include /var/folders/jG/jGlaSJMfEaSmmFVk-VGsVk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Kokteiliai_Prefix-cyttmhelrmuidwhjefthgannfcyj/Kokteiliai_Prefix.pch -c /Volumes/Duomenys/iTo/Kokteiliai/Kokteiliai/Classes/KokteiliaiViewController.m -o /Volumes/Duomenys/iTo/Kokteiliai/Kokteiliai/build/Kokteiliai.build/Debug-iphonesimulator/Kokteiliai.build/Objects-normal/i386/KokteiliaiViewController.o0#
+
+CCompileC build/Kokteiliai.build/Debug-iphonesimulator/Kokteiliai.build/Objects-normal/i386/main.o /Volumes/Duomenys/iTo/Kokteiliai/Kokteiliai/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s321275466.466510
+e321275466.525398
+r1
+xCompileC
+xbuild/Kokteiliai.build/Debug-iphonesimulator/Kokteiliai.build/Objects-normal/i386/main.o
+x/Volumes/Duomenys/iTo/Kokteiliai/Kokteiliai/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@58"Compile /Volumes/Duomenys/iTo/Kokteiliai/Kokteiliai/main.m321275466#321275466#0(0"0(0#0#50"/Volumes/Duomenys/iTo/Kokteiliai/Kokteiliai/main.m8622312192#2029"    cd /Volumes/Duomenys/iTo/Kokteiliai/Kokteiliai    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Volumes/Duomenys/iTo/Kokteiliai/Kokteiliai/build/Kokteiliai.build/Debug-iphonesimulator/Kokteiliai.build/Kokteiliai-generated-files.hmap -I/Volumes/Duomenys/iTo/Kokteiliai/Kokteiliai/build/Kokteiliai.build/Debug-iphonesimulator/Kokteiliai.build/Kokteiliai-own-target-headers.hmap -I/Volumes/Duomenys/iTo/Kokteiliai/Kokteiliai/build/Kokteiliai.build/Debug-iphonesimulator/Kokteiliai.build/Kokteiliai-all-target-headers.hmap -iquote /Volumes/Duomenys/iTo/Kokteiliai/Kokteiliai/build/Kokteiliai.build/Debug-iphonesimulator/Kokteiliai.build/Kokteiliai-project-headers.hmap -F/Volumes/Duomenys/iTo/Kokteiliai/Kokteiliai/build/Debug-iphonesimulator -I/Volumes/Duomenys/iTo/Kokteiliai/Kokteiliai/build/Debug-iphonesimulator/include -I/Volumes/Duomenys/iTo/Kokteiliai/Kokteiliai/build/Kokteiliai.build/Debug-iphonesimulator/Kokteiliai.build/DerivedSources/i386 -I/Volumes/Duomenys/iTo/Kokteiliai/Kokteiliai/build/Kokteiliai.build/Debug-iphonesimulator/Kokteiliai.build/DerivedSources -include /var/folders/jG/jGlaSJMfEaSmmFVk-VGsVk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Kokteiliai_Prefix-cyttmhelrmuidwhjefthgannfcyj/Kokteiliai_Prefix.pch -c /Volumes/Duomenys/iTo/Kokteiliai/Kokteiliai/main.m -o /Volumes/Duomenys/iTo/Kokteiliai/Kokteiliai/build/Kokteiliai.build/Debug-iphonesimulator/Kokteiliai.build/Objects-normal/i386/main.o0#
+
+CCompileXIB /Volumes/Duomenys/iTo/Kokteiliai/Kokteiliai/Classes/../KokteiliaiViewController.xib
+s321275464.959289
+e321275465.359136
+r1
+xCompileXIB
+x/Volumes/Duomenys/iTo/Kokteiliai/Kokteiliai/Classes/../KokteiliaiViewController.xib
+lSLF07#2@50"CompileXIB Classes/../KokteiliaiViewController.xib321275464#321275465#0(0"0(0#0#83"/Volumes/Duomenys/iTo/Kokteiliai/Kokteiliai/Classes/../KokteiliaiViewController.xib8623972352#627"    cd /Volumes/Duomenys/iTo/Kokteiliai/Kokteiliai    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Volumes/Duomenys/iTo/Kokteiliai/Kokteiliai/build/Debug-iphonesimulator/Kokteiliai.app/KokteiliaiViewController.nib /Volumes/Duomenys/iTo/Kokteiliai/Kokteiliai/Classes/../KokteiliaiViewController.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCompileXIB /Volumes/Duomenys/iTo/Kokteiliai/Kokteiliai/MainWindow.xib
+s321275464.958602
+e321275465.345332
+r1
+xCompileXIB
+x/Volumes/Duomenys/iTo/Kokteiliai/Kokteiliai/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib321275464#321275465#0(0"0(0#0#58"/Volumes/Duomenys/iTo/Kokteiliai/Kokteiliai/MainWindow.xib8624628288#588"    cd /Volumes/Duomenys/iTo/Kokteiliai/Kokteiliai    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Volumes/Duomenys/iTo/Kokteiliai/Kokteiliai/build/Debug-iphonesimulator/Kokteiliai.app/MainWindow.nib /Volumes/Duomenys/iTo/Kokteiliai/Kokteiliai/MainWindow.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CGenerateDSYMFile /Volumes/Duomenys/iTo/Kokteiliai/Kokteiliai/build/Debug-iphonesimulator/Kokteiliai.app.dSYM /Volumes/Duomenys/iTo/Kokteiliai/Kokteiliai/build/Debug-iphonesimulator/Kokteiliai.app/Kokteiliai
+s321275466.606092
+e321275466.622588
+r1
+xGenerateDSYMFile
+x/Volumes/Duomenys/iTo/Kokteiliai/Kokteiliai/build/Debug-iphonesimulator/Kokteiliai.app.dSYM
+x/Volumes/Duomenys/iTo/Kokteiliai/Kokteiliai/build/Debug-iphonesimulator/Kokteiliai.app/Kokteiliai
+lSLF07#2@118"GenerateDSYMFile build/Debug-iphonesimulator/Kokteiliai.app.dSYM build/Debug-iphonesimulator/Kokteiliai.app/Kokteiliai321275466#321275466#0(0"0(0#0#97"/Volumes/Duomenys/iTo/Kokteiliai/Kokteiliai/build/Debug-iphonesimulator/Kokteiliai.app/Kokteiliai8599233056#407"    cd /Volumes/Duomenys/iTo/Kokteiliai/Kokteiliai    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Volumes/Duomenys/iTo/Kokteiliai/Kokteiliai/build/Debug-iphonesimulator/Kokteiliai.app/Kokteiliai -o /Volumes/Duomenys/iTo/Kokteiliai/Kokteiliai/build/Debug-iphonesimulator/Kokteiliai.app.dSYM0#
+
+CLd /Volumes/Duomenys/iTo/Kokteiliai/Kokteiliai/build/Debug-iphonesimulator/Kokteiliai.app/Kokteiliai normal i386
+s321275466.583259
+e321275466.606005
+r1
+xLd
+x/Volumes/Duomenys/iTo/Kokteiliai/Kokteiliai/build/Debug-iphonesimulator/Kokteiliai.app/Kokteiliai
+xnormal
+xi386
+lSLF07#2@102"Link /Volumes/Duomenys/iTo/Kokteiliai/Kokteiliai/build/Debug-iphonesimulator/Kokteiliai.app/Kokteiliai321275466#321275466#0(0"0(0#0#0"8619198496#940"    cd /Volumes/Duomenys/iTo/Kokteiliai/Kokteiliai    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -L/Volumes/Duomenys/iTo/Kokteiliai/Kokteiliai/build/Debug-iphonesimulator -F/Volumes/Duomenys/iTo/Kokteiliai/Kokteiliai/build/Debug-iphonesimulator -filelist /Volumes/Duomenys/iTo/Kokteiliai/Kokteiliai/build/Kokteiliai.build/Debug-iphonesimulator/Kokteiliai.build/Objects-normal/i386/Kokteiliai.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -o /Volumes/Duomenys/iTo/Kokteiliai/Kokteiliai/build/Debug-iphonesimulator/Kokteiliai.app/Kokteiliai0#
+
+CProcessInfoPlistFile /Volumes/Duomenys/iTo/Kokteiliai/Kokteiliai/build/Debug-iphonesimulator/Kokteiliai.app/Info.plist Kokteiliai-Info.plist
+s321275464.929160
+e321275464.958505
+r1
+xProcessInfoPlistFile
+x/Volumes/Duomenys/iTo/Kokteiliai/Kokteiliai/build/Debug-iphonesimulator/Kokteiliai.app/Info.plist
+xKokteiliai-Info.plist
+lSLF07#2@29"Process Kokteiliai-Info.plist321275464#321275464#0(0"0(0#0#65"/Volumes/Duomenys/iTo/Kokteiliai/Kokteiliai/Kokteiliai-Info.plist8621243808#503"    cd /Volumes/Duomenys/iTo/Kokteiliai/Kokteiliai    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility Kokteiliai-Info.plist -genpkginfo /Volumes/Duomenys/iTo/Kokteiliai/Kokteiliai/build/Debug-iphonesimulator/Kokteiliai.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Volumes/Duomenys/iTo/Kokteiliai/Kokteiliai/build/Debug-iphonesimulator/Kokteiliai.app/Info.plist0#
+
+CProcessPCH /var/folders/jG/jGlaSJMfEaSmmFVk-VGsVk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Kokteiliai_Prefix-cyttmhelrmuidwhjefthgannfcyj/Kokteiliai_Prefix.pch.gch Kokteiliai_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s321275465.359252
+e321275466.466345
+r1
+xProcessPCH
+x/var/folders/jG/jGlaSJMfEaSmmFVk-VGsVk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Kokteiliai_Prefix-cyttmhelrmuidwhjefthgannfcyj/Kokteiliai_Prefix.pch.gch
+xKokteiliai_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@32"Precompile Kokteiliai_Prefix.pch321275465#321275466#0(0"0(0#0#65"/Volumes/Duomenys/iTo/Kokteiliai/Kokteiliai/Kokteiliai_Prefix.pch8621273408#1913"    cd /Volumes/Duomenys/iTo/Kokteiliai/Kokteiliai    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Volumes/Duomenys/iTo/Kokteiliai/Kokteiliai/build/Kokteiliai.build/Debug-iphonesimulator/Kokteiliai.build/Kokteiliai-generated-files.hmap -I/Volumes/Duomenys/iTo/Kokteiliai/Kokteiliai/build/Kokteiliai.build/Debug-iphonesimulator/Kokteiliai.build/Kokteiliai-own-target-headers.hmap -I/Volumes/Duomenys/iTo/Kokteiliai/Kokteiliai/build/Kokteiliai.build/Debug-iphonesimulator/Kokteiliai.build/Kokteiliai-all-target-headers.hmap -iquote /Volumes/Duomenys/iTo/Kokteiliai/Kokteiliai/build/Kokteiliai.build/Debug-iphonesimulator/Kokteiliai.build/Kokteiliai-project-headers.hmap -F/Volumes/Duomenys/iTo/Kokteiliai/Kokteiliai/build/Debug-iphonesimulator -I/Volumes/Duomenys/iTo/Kokteiliai/Kokteiliai/build/Debug-iphonesimulator/include -I/Volumes/Duomenys/iTo/Kokteiliai/Kokteiliai/build/Kokteiliai.build/Debug-iphonesimulator/Kokteiliai.build/DerivedSources/i386 -I/Volumes/Duomenys/iTo/Kokteiliai/Kokteiliai/build/Kokteiliai.build/Debug-iphonesimulator/Kokteiliai.build/DerivedSources -c /Volumes/Duomenys/iTo/Kokteiliai/Kokteiliai/Kokteiliai_Prefix.pch -o /var/folders/jG/jGlaSJMfEaSmmFVk-VGsVk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Kokteiliai_Prefix-cyttmhelrmuidwhjefthgannfcyj/Kokteiliai_Prefix.pch.gch0#
+
+CTouch /Volumes/Duomenys/iTo/Kokteiliai/Kokteiliai/build/Debug-iphonesimulator/Kokteiliai.app
+s321275466.622701
+e321275466.625409
+r1
+xTouch
+x/Volumes/Duomenys/iTo/Kokteiliai/Kokteiliai/build/Debug-iphonesimulator/Kokteiliai.app
+lSLF07#2@92"Touch /Volumes/Duomenys/iTo/Kokteiliai/Kokteiliai/build/Debug-iphonesimulator/Kokteiliai.app321275466#321275466#0(0"0(0#0#0"8623672736#291"    cd /Volumes/Duomenys/iTo/Kokteiliai/Kokteiliai    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Volumes/Duomenys/iTo/Kokteiliai/Kokteiliai/build/Debug-iphonesimulator/Kokteiliai.app0#
+

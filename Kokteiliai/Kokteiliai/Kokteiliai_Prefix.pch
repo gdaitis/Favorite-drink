@@ -1,0 +1,8 @@
+//
+// Prefix header for all source files of the 'Kokteiliai' target in the 'Kokteiliai' project
+//
+
+#ifdef __OBJC__
+    #import <Foundation/Foundation.h>
+    #import <UIKit/UIKit.h>
+#endif
